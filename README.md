@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This project aims to explore and analyze global air pollution data, with a focus on PM2.5 concentration levels, to uncover trends, insights, and regional disparities. Using an Agile methodology, we approach this analysis in iterative cycles, allowing for continuous improvement, adaptation, and incorporation of feedback at every stage. Although this is a solo project, we will still benefit from understading the method and applying it hands on.
+This project aims to explore and analyze global air pollution data, with a focus on PM2.5 concentration levels, to uncover trends, insights, and regional disparities. 
+
+Python will be our main tool, ideal for its strong data analysis and visualization libraries, enabling us to dig into PM2.5 air quality data efficiently.
+
+Using an Agile methodology, we approach this work in iterative cycles, allowing for continuous improvement, adaptation, and incorporation of feedback at every stage. Although this is a solo project, we will still benefit by learning about the method and applying it hands on.
 
 **What is PM2.5?**
 
@@ -39,9 +43,9 @@ The dataset is sourced from the [World Bank Global Air Pollution Database](https
 
 [DONE] Create a GitHub repository for the project.
 
-[-] Set up a directory structure within the repository (e.g., for datasets, documentation, source code, notebooks).
+[DONE] Set up a directory structure within the repository (e.g., for datasets, documentation, source code, notebooks).
 
-[-] Add essential files: README.md for project documentation, .gitignore to exclude unnecessary files from Git tracking, and LICENSE if applicable.
+[DONE] Add essential files: README.md for project documentation, .gitignore to exclude unnecessary files from Git tracking, and LICENSE if applicable.
 
 #### Obtain and Explore the Dataset
 
