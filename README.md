@@ -31,13 +31,13 @@ PM2.5 matters significantly due to its profound impact on public health, the env
 
 The dataset is sourced from the [World Bank Global Air Pollution Database](https://databank.worldbank.org/reports.aspx?source=2%20&series=EN.ATM.PM25.MC.M3&country=). 
 
-## Sprints Breakdown
+# Project Progress: Sprints Breakdown
 
 ### Sprint 1: Project Setup and Data Exploration
 #### Initialize Project Structure
 [DONE] Research and understand the subject matter.
 
-[-] Create a GitHub repository for the project.
+[DONE] Create a GitHub repository for the project.
 
 [-] Set up a directory structure within the repository (e.g., for datasets, documentation, source code, notebooks).
 
